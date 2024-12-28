@@ -84,11 +84,11 @@ A responsive and interactive weather application built with ReactJS that allows 
    │   ├── WeatherApp.css
    │   ├── WeatherApp.jsx
    ├── .gitignore
+   ├── README.md
    ├── eslint.config.js
    ├── index.html
    ├── package-lock.json
    ├── package.json
-   ├── README.md
    └── vite.config.js
    ```
 
